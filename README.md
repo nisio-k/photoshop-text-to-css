@@ -19,3 +19,7 @@ Photoshop用のスクリプトです。選択したテキストレイヤーの�
 * text-indent
 * text-transform
 * transform
+
+## 実行結果
+
+![](https://raw.githubusercontent.com/nisio-k/photoshop-text-to-css/images/screenshot.png)
