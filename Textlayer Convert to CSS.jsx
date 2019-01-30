@@ -1,6 +1,6 @@
 ﻿/*
  * Textlayer Convert to CSS
- * https://github.com/nisio-k/ps-text-css
+ * https://github.com/nisio-k/photoshop-text-to-css
  */
 function convertCSS(){
 
