@@ -22,4 +22,4 @@ Photoshop用のスクリプトです。選択したテキストレイヤーの�
 
 ## 実行結果
 
-![](https://raw.githubusercontent.com/nisio-k/photoshop-text-to-css/images/screenshot.png)
+<img src="https://raw.githubusercontent.com/nisio-k/photoshop-text-to-css/images/screenshot.png" width="500" height="200">
